@@ -1,0 +1,14 @@
+layout_spectrum: 0.5253035
+typography_spectrum: 0.3988679
+color:
+  saturation: 0.7671304
+  lightness: 0.6833903
+  brandStrength: 0.5184761
+  rhythmicContrast: 0.6282735
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: 'Ctsound '

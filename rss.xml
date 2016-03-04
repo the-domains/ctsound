@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ctsound ]]></title>
+        <description><![CDATA[Ctsound ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 01:34:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Homepage]]></title>
+            <description><![CDATA[<article><h1>Homepage</h1><p>Since our founding in 1969, the focus of CUSTOMtronics SOUND has been to provide personal attention to each client; not just see them as a "number."</p><img src="https://static.wixstatic.com/media/2d3a1c_7531f85a6e9340e9bfdc271a6d0d85ea.jpg"></article>]]></description>
+            <link>http://www.customtronics.com/</link>
+            <guid isPermaLink="false">f78a0d7d-f286-47e5-8ee9-336c751ec013</guid>
+            <pubDate>Fri, 04 Mar 2016 01:33:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

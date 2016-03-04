@@ -1,14 +1,26 @@
-layout_spectrum: 0.5253035
-typography_spectrum: 0.3988679
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4283154
 color:
-  saturation: 0.7671304
-  lightness: 0.6833903
-  brandStrength: 0.5184761
-  rhythmicContrast: 0.6282735
+  saturation: 0.7598566
+  brandStrength: 0.5053763
+  lightness: 0.6738351
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#003D7E'
+    - '#325FA2'
+    - '#4E5C6E'
+    - '#9DBDEA'
+  rhythmicContrast: 0.6282735
+layout_spectrum: 0.3172043
 name: 'Ctsound '

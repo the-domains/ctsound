@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.4283154
 color:
   saturation: 0.7598566
   brandStrength: 0.5053763
-  lightness: 0.6738351
+  rhythmicContrast: 0.6282735
   brandColors:
     - '#FFFFFF'
     - '#003D7E'
     - '#325FA2'
     - '#4E5C6E'
     - '#9DBDEA'
-  rhythmicContrast: 0.6282735
-layout_spectrum: 0.3172043
+  lightness: 0.6738351
+layout_spectrum: 1
 name: 'Ctsound '

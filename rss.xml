@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Ctsound ]]></title>
         <description><![CDATA[Ctsound ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ctsound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:34:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 01:41:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ctsound/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Expertise]]></title>
+            <description><![CDATA[<article><h1>Our Expertise</h1><p>Our goal at CUSTOMtronics Sound, is to treat each person like family and to find the best way to help them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e0e9df3b90372ec58550575499e3bed6baaba0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ctsound/our-expertise/index.html</link>
+            <guid isPermaLink="false">8cd4362b-3b16-4f14-b626-d8179a136a4e</guid>
+            <pubDate>Fri, 04 Mar 2016 01:39:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Homepage]]></title>
-            <description><![CDATA[<article><h1>Homepage</h1><p>Since our founding in 1969, the focus of CUSTOMtronics SOUND has been to provide personal attention to each client; not just see them as a "number."</p><img src="https://static.wixstatic.com/media/2d3a1c_7531f85a6e9340e9bfdc271a6d0d85ea.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Homepage</h1><p>Since our founding in 1969, the focus of CUSTOMtronics SOUND has been to provide personal attention to each client; not just see them as a "number."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e0e9df3b90372ec58550575499e3bed6baaba0.jpg"></article>]]></description>
             <link>http://www.customtronics.com/</link>
             <guid isPermaLink="false">f78a0d7d-f286-47e5-8ee9-336c751ec013</guid>
             <pubDate>Fri, 04 Mar 2016 01:33:19 GMT</pubDate>

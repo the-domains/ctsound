@@ -1,22 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:2302cfb2-abdb-4194-8e59-acf0a92f17ff'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-09T03:13:49.662Z'
+dateModified: '2016-03-09T03:13:16.878Z'
 author: []
-datePublished: '2016-03-04T01:39:48.147Z'
-publisher:
-  domain: ''
-  name: ''
 title: Our Expertise
-dateModified: '2016-03-04T01:38:45.181Z'
 sourcePath: _posts/2016-03-04-our-expertise.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: our-expertise/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Our Expertise
 
-<article style=""><h1>How CUSTOMtronics Sound Stands apart from the rest</h1><p>Our goal at CUSTOMtronics Sound&amp;comma; is to treat each person like family and to find the best way to help them&amp;period;</p><img src="https://static.wixstatic.com/media/2d3a1c_7531f85a6e9340e9bfdc271a6d0d85ea.jpg" /></article>
+<article style=""><p>What makes CUSTOMtronics Sound stand apart from the rest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e0e9df3b90372ec58550575499e3bed6baaba0.jpg" /></article>

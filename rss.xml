@@ -4,7 +4,7 @@
         <description><![CDATA[Ctsound ]]></description>
         <link>https://thegrid.ai/ctsound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 16:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 16:42:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ctsound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company home page]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/ctsound/company-home-page/index.html</link>
             <guid isPermaLink="false">bcd42b88-e02b-42dc-acbc-c010f5a61bb6</guid>
             <pubDate>Fri, 01 Apr 2016 16:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homepage]]></title>
-            <description><![CDATA[<article><h1>Homepage</h1><p>Since our founding in 1969, the focus of CUSTOMtronics SOUND has been to provide personal attention to each client; not just see them as a "number."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e0e9df3b90372ec58550575499e3bed6baaba0.jpg"></article>]]></description>
-            <link>http://www.customtronics.com/</link>
-            <guid isPermaLink="false">f78a0d7d-f286-47e5-8ee9-336c751ec013</guid>
-            <pubDate>Fri, 04 Mar 2016 01:33:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
